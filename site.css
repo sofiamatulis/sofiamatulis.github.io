@@ -1,6 +1,6 @@
 /* Typography and Type Color*/
 h1, h2, h3, h4 {
-	font-family: 'Pacifico', cursive;
+	/*font-family: 'Pacifico', cursive;*/
 	font-weight: 400;
 	margin: 0;
 	color: #333333;
@@ -18,7 +18,7 @@ a {
 /* muda quando voce passa o mouse em cima*/
 
 a:hover, a.light:hover, a:active, a.light:active {
-	color: rgb(252, 217, 153);
+	/*color: rgb(252, 217, 153);*/
 }
 a.light {
 	color: #fff;
@@ -66,7 +66,7 @@ body {
 
 /* Top panel */
 .top-panel {
-	background: url("logo.jpg") no-repeat #000 center;
+	background: url("mylogo.jpg") no-repeat #000 center;
 	background-size: cover;
 	background-attachment: fixed;
   background-opacity: 0.5;
@@ -104,7 +104,7 @@ body {
 
 /* About */
 .about-wrapper {
-	background-color: rgb(252, 217, 153);
+	background-color: #83dfe6;
 	box-sizing: border-box;
 	padding: 100px 10px;
 	text-align: center;
@@ -132,16 +132,16 @@ body {
   height: 100%;
 }
 .link-box.link.box-1 {
-  background: url("https://scontent-yyz1-1.xx.fbcdn.net/t31.0-8/s960x960/10628664_541277576018997_115458106459830121_o.jpg") no-repeat #000 center;
+  background: url("https://s3-us-west-2.amazonaws.com/packapp/assets/packapp2.png") no-repeat white center;
   background-size: cover;
 
 }
 .link-box.link.box-2 {
-  background: url("https://scontent-yyz1-1.xx.fbcdn.net/t31.0-8/s960x960/1782401_410810015732421_1775834357_o.jpg") no-repeat #000 center;
+  background: url("http://brandchannel.com/wp-content/uploads/2016/05/instagram-new-logo-may-2016.jpg") no-repeat white center;
   background-size: cover;
 }
 .link-box.link.box-3 {
-  background: url("https://scontent-yyz1-1.xx.fbcdn.net/t31.0-8/s960x960/10257783_456950821118340_3932413627648278802_o.jpg") no-repeat #000 center;
+  background: url("https://pbs.twimg.com/profile_images/750245754728439809/FtlOClI8.jpg") no-repeat white center;
   background-size: cover;
 }
 .link-box.link {
@@ -222,7 +222,7 @@ body {
 /* contact panel */
 .contact-wrapper {
 	width: 100%;
-	background-color: rgb(252, 217, 153);
+	background-color: #83dfe6;
 	text-align: center;
 	box-sizing: border-box;
 	padding: 100px 20px 50px 20px;
@@ -255,7 +255,7 @@ textarea:focus, .textinput:focus {
 	transition: 200ms;
 	cursor: pointer;
 	box-shadow: 0 10px 0 #000, 0 8px 30px #000;
-	font-family: 'Pacifico', cursive;
+	/*font-family: 'Pacifico', cursive;*/
 	font-weight: 300;
 	font-size: 18px;
 }

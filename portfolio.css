@@ -1,6 +1,6 @@
 /* Typography and Type Color*/
 h1, h2, h3, h4 {
-  font-family: 'Pacifico', cursive;
+  /*font-family: 'Pacifico', cursive;*/
   font-weight: 400;
   margin: 0;
   color: #333333;
@@ -16,7 +16,7 @@ a {
   transition: 300ms;
 }
 a:hover, a.light:hover, a:active, a.light:active {
-  color: rgb(252, 217, 153);
+  /*color: rgb(252, 217, 153);*/
 }
 a.light {
   color: #fff;

@@ -1,6 +1,6 @@
 /* Typography and Type Color*/
 h1, h2, h3, h4 {
-  font-family: 'Pacifico', cursive;
+  /*font-family: 'Pacifico', cursive;*/
   font-weight: 400;
   margin: 0;
   color: #333333;
@@ -79,7 +79,7 @@ body {
 .navigation-wrapper {
   width: 100%;
   background-color: #333333;
-  position: fixed; 
+  position: fixed;
   top: 0;
   z-index: 999999;
 }
@@ -115,63 +115,59 @@ body {
 }
 
 
-   
-  
-
-
 
 .parallax_image_third{
  background-image: url("6G1A0292.jpg");
-  
-   
+
+
 }
 
 
 .parallax_image_fourth{
    background-image: url("6G1A0463.JPG");
-  
-   
+
+
 }
 
 .parallax_image_fifth{
     background-image: url("6G1A0739.JPG");
-   
+
 }
 
 
 .parallax_image_sixth{
   background-image: url("6G1A1679.JPG");
-  
-   
+
+
 }
 
 
 .parallax_image_seventh{
     background-image: url("6G1A1914.JPG");
-   
+
 }
 
 
 
 .parallax_image_eight{
  background-image: url("6G1A8349.jpg");
-  
-   
+
+
 }
 
 
 .parallax_image_ninth{
  background-image: url("6G1A2194.jpg");
-  
-   
+
+
 
 }
 
 
 .parallax_image_tenth{
  background-image: url("6G1A3174.jpg");
-  
-   
+
+
 
 }
 
@@ -179,53 +175,53 @@ body {
 
 .parallax_image_eleventh{
  background-image: url("6G1A6141.jpg");
-  
-   
+
+
 
 }
 
 
 .parallax_image_twelveth{
  background-image: url("6G1A4835.jpg");
-  
-   
+
+
 
 }
 
 
 .parallax_image_thirteenth{
  background-image: url("6G1A5179.jpg");
-  
-   
+
+
 
 }
 
 .parallax_image_banana{
  background-image: url("6G1A9711.jpg");
-  
-   
+
+
 
 }
 
 
 .parallax_image_maca{
  background-image: url("6G1A7968.jpg");
-  
-   
+
+
 
 }
 
 .parallax_image_orange{
  background-image: url("6G1A8012.JPG");
-  
-   
+
+
 
 }
 
 .parallax_image_kale{
  background-image: url("6G1A8349.jpg");
-  
-   
+
+
 
 }
 
@@ -234,8 +230,8 @@ body {
 
 .parallax_image_food{
  background-image: url("6G1A7909.jpg");
-  
-   
+
+
 
 }
 
@@ -243,8 +239,7 @@ body {
 
 .parallax_image_lala{
  background-image: url("6G1A5717.jpg");
-  
-   
+
+
 
 }
-
