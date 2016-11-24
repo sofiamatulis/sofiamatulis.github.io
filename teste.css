@@ -16,7 +16,7 @@ a {
   transition: 300ms;
 }
 a:hover, a.light:hover, a:active, a.light:active {
-  color: rgb(252, 217, 153);
+  /*color: rgb(252, 217, 153);*/
 }
 a.light {
   color: #fff;
