@@ -144,6 +144,11 @@ body {
   background: url("https://pbs.twimg.com/profile_images/750245754728439809/FtlOClI8.jpg") no-repeat white center;
   background-size: cover;
 }
+
+.link-box.link.box-4 {
+  background: url("seat.png") no-repeat white center;
+  background-size: cover;
+}
 .link-box.link {
   display: block;
 	-webkit-transition: all 0.4s ease-in-out;
